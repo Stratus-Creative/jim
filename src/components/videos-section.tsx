@@ -10,9 +10,6 @@ const videos = [
   { id: "AZVxfSAnGvo", title: "I Live to Worship You" },
   { id: "iN3ANZFpurw", title: "Faithful God" },
   { id: "EEcCXyzvKPU", title: "Glory in the Highest" },
-  { id: "GFhKoXBbKmQ", title: "Forgiven (Live)" },
-  { id: "O2KUGPqY90Q", title: "Dancing in the Night" },
-  { id: "OFBNkwqxJWo", title: "Peace in God" },
 ];
 
 export function VideosSection() {
